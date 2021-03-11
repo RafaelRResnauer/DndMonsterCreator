@@ -1,0 +1,2 @@
+public interface MythicActions {
+}

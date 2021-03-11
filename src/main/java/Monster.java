@@ -6,4 +6,15 @@ public class Monster {
     private int hitPoints;
     private String hpFormula;
     private String speed;
+    private AbilityScores abilityScores;
+    private Skills skills;
+    private String damageVulnerabilities;
+    private String damageResistances;
+    private String damageImmunities;
+    private String conditionImmunities;
+    private String senses;
+    private String languages;
+    private float challenge;
+    private int xp;
+
 }
