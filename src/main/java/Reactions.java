@@ -1,2 +1,2 @@
-public interface Reactions {
+public class Reactions {
 }

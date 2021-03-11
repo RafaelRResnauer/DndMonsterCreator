@@ -1,2 +1,2 @@
-public interface MythicActions {
+public class MythicActions {
 }

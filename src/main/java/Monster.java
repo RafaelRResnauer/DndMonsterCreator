@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Monster {
     private String name;
     private String type;
@@ -16,5 +18,7 @@ public class Monster {
     private String languages;
     private float challenge;
     private int xp;
+
+    private List<MonsterFeature> monsterFeatureList;
 
 }

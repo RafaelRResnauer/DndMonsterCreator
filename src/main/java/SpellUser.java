@@ -1,2 +1,2 @@
-public interface SpellUser {
+public class SpellUser {
 }

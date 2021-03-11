@@ -1,2 +1,2 @@
-public interface LegendaryActions {
+public class LegendaryActions {
 }
